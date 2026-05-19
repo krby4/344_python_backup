@@ -1,0 +1,17 @@
+#ignore test dirs
+backup_out/
+backup_tests/
+logs/
+restore/
+test_env/
+test_logs/
+test_output/
+test_restore/
+#ignore other files
+arg_parser.py
+test.py
+test_backup.sh
+parse_py_test.sh
+*.txt
+*.log
+*.csv
